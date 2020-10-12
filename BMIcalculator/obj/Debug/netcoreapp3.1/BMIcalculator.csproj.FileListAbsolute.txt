@@ -1,0 +1,12 @@
+/Users/merilinkaselaid/Projects/BMIcalculator/BMIcalculator/bin/Debug/netcoreapp3.1/BMIcalculator.deps.json
+/Users/merilinkaselaid/Projects/BMIcalculator/BMIcalculator/bin/Debug/netcoreapp3.1/BMIcalculator.runtimeconfig.json
+/Users/merilinkaselaid/Projects/BMIcalculator/BMIcalculator/bin/Debug/netcoreapp3.1/BMIcalculator.runtimeconfig.dev.json
+/Users/merilinkaselaid/Projects/BMIcalculator/BMIcalculator/bin/Debug/netcoreapp3.1/BMIcalculator.dll
+/Users/merilinkaselaid/Projects/BMIcalculator/BMIcalculator/bin/Debug/netcoreapp3.1/BMIcalculator.pdb
+/Users/merilinkaselaid/Projects/BMIcalculator/BMIcalculator/obj/Debug/netcoreapp3.1/BMIcalculator.csprojAssemblyReference.cache
+/Users/merilinkaselaid/Projects/BMIcalculator/BMIcalculator/obj/Debug/netcoreapp3.1/BMIcalculator.AssemblyInfoInputs.cache
+/Users/merilinkaselaid/Projects/BMIcalculator/BMIcalculator/obj/Debug/netcoreapp3.1/BMIcalculator.AssemblyInfo.cs
+/Users/merilinkaselaid/Projects/BMIcalculator/BMIcalculator/obj/Debug/netcoreapp3.1/BMIcalculator.csproj.CoreCompileInputs.cache
+/Users/merilinkaselaid/Projects/BMIcalculator/BMIcalculator/obj/Debug/netcoreapp3.1/BMIcalculator.dll
+/Users/merilinkaselaid/Projects/BMIcalculator/BMIcalculator/obj/Debug/netcoreapp3.1/BMIcalculator.pdb
+/Users/merilinkaselaid/Projects/BMIcalculator/BMIcalculator/obj/Debug/netcoreapp3.1/BMIcalculator.genruntimeconfig.cache
